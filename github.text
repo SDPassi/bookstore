@@ -1,0 +1,44 @@
+
+
+该了东西之后，
+开 git shell
+cd ~/Desktop/<your-folder>
+git add -A
+git commit -m "<your-message>"
+git push origin HEAD
+
+就行了
+就比如
+明白吗？
+
+就我edit了 就去gitshell 打这些东西？
+刚你有打git pull是什么？
+
+其实呢，cd 就是告诉那个 shell 你的folder 的位置
+cd 之后，其实不需要一直cd 的
+只要directory对就可以了
+git add -A 的意思就是说你要 add 什么file / track 什么file
+久 如果你  git add -A 就是 track 所有的file 或 changes 来 git commit
+commit 后， 用 git push origin HEAD 就会发布online
+如果说，你的file 跟online的不一样，就你在做着一半的时候，haozhan commit online，你就要先 git pull
+拿到最新update，你就能 git push origin HEAD 了
+
+哦哦 明白明白
+哈哈及，就这样吧聊咯哈哈哈哈
+
+ohoh 哈哈哈 okok 为什么我弄不到在github commit 跟 push叻？刚你讲我的github gui版本问题？
+不是版本问题哦，那个ssh问题他写，可能你install 到 corrupt，或者就你电脑有问题用不到
+
+哦哦 将我现在用shell来 push 跟 commit是一样的是吗？
+是根本一样的 而且更 flexixble
+哦哦明白明白
+kk 谢谢蛤 哈哈哈 我试试看先 
+
+如果不可以再问你 
+哈哈哈 没问题啦 （Y）
+
+感恩感恩<3
+meiwentideahaha
+k 啦先挂了，有问题记得跟我说
+
+好的 byebye
